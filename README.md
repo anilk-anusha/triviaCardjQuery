@@ -1,4 +1,4 @@
-# triviaCardjQuery
+# Trivia Card jQuery
 
 ## Overview
 
@@ -16,18 +16,19 @@ This project is a part of the LEARN JQUERY course from Codecademy.
 
 ## General Info
 
- The main purpose of this project is to undertand jQuery methods and add jQuery Effects to the Trivia Card.
+ The main purpose of this project is to understand jQuery methods and add jQuery Effects to the Trivia Card.
 
 ## To-do List
 
 - [ ] Add wrong answer action 
-- [ ] Add correct answer action 
+- [ ] Add correct answer action
+- [ ] Change frown/smiley face depending on the selected answer
 
 ## Screenshots
 
+<img width="575" alt="image" src="https://github.com/anilk-anusha/triviaCardjQuery/assets/130001836/1da341e0-15b0-42d3-ab7d-14a9714b7156">
+<img width="523" alt="image" src="https://github.com/anilk-anusha/triviaCardjQuery/assets/130001836/5a2f4b49-78f2-4807-b0b9-5638e3fd8400">
 
-<img width="843" alt="image" src="https://github.com/anilk-anusha/feedsterWebsite/assets/130001836/b6537bde-a391-43fa-a1b3-825a5977f6c5">
-<img width="545" alt="image" src="https://github.com/anilk-anusha/feedsterWebsite/assets/130001836/0d38f00e-38b6-456c-b699-0295bf20b62c">
 
 
 ## Technologies
@@ -40,7 +41,7 @@ This project is a part of the LEARN JQUERY course from Codecademy.
 
 ## Setup
 
-Setup locally as part of a coding excercise 
+Setup locally as part of a coding exercise 
 
 ## Status
 
