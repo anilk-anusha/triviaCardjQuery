@@ -41,8 +41,7 @@ This project is a part of the LEARN JQUERY course from Codecademy.
 
 ## Setup
 
-Setup locally as part of a coding exercise 
-
+NA - The project is part of a Codecademy course and doesn't require additional setup.
 ## Status
 
 Project Status: Completed
