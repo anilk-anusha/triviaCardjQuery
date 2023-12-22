@@ -20,9 +20,9 @@ This project is a part of the LEARN JQUERY course from Codecademy.
 
 ## To-do List
 
-- [ ] Add wrong answer action 
-- [ ] Add correct answer action
-- [ ] Change frown/smiley face depending on the selected answer
+- [x] Add wrong answer action 
+- [x] Add correct answer action
+- [x] Change frown/smiley face depending on the selected answer
 
 ## Screenshots
 
